@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>github-api-utils</name>
+  <description>Utilities for working with the github-api library</description>
+  <url>https://github.com/topobyte/github-api-utils</url>
+  <licenseName>GNU Lesser General Public License (LGPL), Version 3</licenseName>
+  <licenseUrl>https://www.gnu.org/licenses/lgpl-3.0.txt</licenseUrl>
+  <licenseDistribution>repo</licenseDistribution>
+</project>
